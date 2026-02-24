@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d363b33d.css",
+    "main.js": "/Portfolio/static/js/main.806143c2.js",
+    "static/media/nutricionista.png": "/Portfolio/static/media/nutricionista.cbc25b14e10b0e71180d.png",
+    "static/media/jeovs.jpg": "/Portfolio/static/media/jeovs.74285d4c1a183757b77d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.d363b33d.css.map": "/Portfolio/static/css/main.d363b33d.css.map",
+    "main.806143c2.js.map": "/Portfolio/static/js/main.806143c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d363b33d.css",
+    "static/js/main.806143c2.js"
+  ]
+}
